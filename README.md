@@ -17,3 +17,5 @@ to be brief this project allows you to turn on your camera segmenting you while 
 ⚪ White
 ⚫ Black
 🖼️ Custom Background 
+
+watch bor3i demo for a clear demonstration 
